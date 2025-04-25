@@ -1,6 +1,5 @@
 - 👋 Hi, I’m MUHUNTHAN E
 - 👀 I’m interested in learning new things and software developer
-- 🌱 I’m currently learning Data Analyst Skill
 - 📫 How to reach me muhunthane03@gmail.com 
 
 <!---
